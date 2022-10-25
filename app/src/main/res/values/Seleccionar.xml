@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="btnSelec">
+        <item>Ninguno</item>
+        <item> Primaria </item>
+        <item> Secundaria </item>
+        <item>Universitari@</item>
+    </string-array>
+
+
+</resources>

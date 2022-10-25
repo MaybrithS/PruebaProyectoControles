@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Controles</string>
+    <string name="txt">Datos</string>
+    <string name="txtName">Introduce tu nombre</string>
+    <string name="email">Correo electrónico</string>
+    <string name="txt1">Horario</string>
+    <string name="hora1">24 horas</string>
+    <string name="hora2">12 horas</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="txtNumero">Número celular</string>
+    <string name="btnSelec">Nivel de estudio</string>
+    <string name="btnEstudio">Nivel de estudio</string>
+    <string name="txtContraseña">Contraseña</string>
+    <string name="txtGenero">Género</string>
+    <string name="btnGeneroF">Femenino</string>
+    <string name="btnGeneroM">Masculino</string>
+    <string name="btnGeneroO">Otro</string>
+    <string name="btnLimpiar">Limpiar</string>
+    <string name="txtView">información</string>
+    <string name="btnfinal">Volver</string>
+
+
+</resources>
